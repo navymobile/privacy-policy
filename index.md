@@ -16,3 +16,9 @@
 本ポリシーに関するご質問や、アプリに関する不具合報告・ご要望は、以下のフォームよりお問い合わせください。
 
 *   [お問い合わせフォーム](https://forms.gle/ipdMXXuQpeqnDBgE8)
+
+<style>
+  .site-footer {
+    display: none !important;
+  }
+</style>

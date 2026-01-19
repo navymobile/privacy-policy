@@ -18,6 +18,7 @@
 *   [お問い合わせフォーム](https://forms.gle/ipdMXXuQpeqnDBgE8)
 
 <style>
+  .page-heade,
   .site-footer {
     display: none !important;
   }
